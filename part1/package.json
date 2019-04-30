@@ -1,0 +1,6 @@
+{
+  "license": "MIT",
+  "dependencies": {
+    "nem-sdk": "^1.6.7"
+  }
+}
